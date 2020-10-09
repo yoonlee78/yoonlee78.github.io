@@ -5,7 +5,7 @@ author: "yoonlee78@snu.ac.kr"
 permalink: /about/
 ---
 
-<img src = "https://raw.githubusercontent.com/yoonlee78/blog/master/assets/profile/yoon-profile-img.jpg" />
+<img src = "https://raw.githubusercontent.com/yoonlee78/yoonlee78.github.io/main/assets/profile/yoon-profile-img.jpg" />
 
 
 I am a Ph.D. student in the Psychology department at Seoul National University (SNU), Korea. I am a proud member of Human Factors Psychology Laboratory with an awesome advisor, Dr. Sowon Hahn. I am broadly interested in social cognition, empathy, social intelligence, AI, and psychology. In specific I am interested in integrating artificial intelligence with cognitive psychology to understand the core mechanisms of socially appropriate and desirable human-AI/robot collaboration. My Ph.D. work is supported by SNU Social Sciences R&D, Korean Ministry of SMEs and Startups, and KData.  
