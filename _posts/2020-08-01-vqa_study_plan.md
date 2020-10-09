@@ -2,6 +2,7 @@
 layout: post
 title: "VQA Study Plan"
 author: "Yoon Kyung Lee"
+tags: Study
 ---
 
 PyEmotion Study 
