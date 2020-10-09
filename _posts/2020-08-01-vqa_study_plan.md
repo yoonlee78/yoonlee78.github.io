@@ -76,13 +76,12 @@ Event [link]()
 
 #### :one: VQA
 
-4.1. TBA
-
-4.2. TBA
+4.1. [GQA: A New Dataset for Real-World Visual Reasoning
+and Compositional Question Answering](https://arxiv.org/pdf/1902.09506.pdf)
 
 
 #### :two: RASA
 
-4. NLU Model, Part 2: Pipeline Components
+4.2. NLU Model, Part 2: Pipeline Components
 
 ----
