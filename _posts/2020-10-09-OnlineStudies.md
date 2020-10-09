@@ -2,7 +2,7 @@
 layout: post
 title: "Online Sampling & Psychology Experiments"
 author: "Yoon Kyung Lee"
-tags: Psych Experiments
+tags: Experiments
 ---
 
 COVID-19의 확산이 지속됨에 따라 심리학계에도 실험 패러다임 전환의 시기가 찾아온 듯 하다. 심리학 연구에 쓰이는 설문/실험은 원래 크게 온라인과 오프라인으로 나뉜다. 온라인은 우리가 보통 아는 자가보고식의 형태의 인지 능력 검사, 주의력 검사, 우울증 검사 등이 있다. 오프라인에서 실험할때는 컴퓨터에 제시된 화면에 나온 내용을 읽고 빠르게 반응 (키보드의 키를 누르거나 마우스 클릭, 또는 터치), 아이트래킹을 통해 눈의 운동과 시선을 추적, 또는 뇌파를 측정하는 등 다양한 도구를 사용했다. 
