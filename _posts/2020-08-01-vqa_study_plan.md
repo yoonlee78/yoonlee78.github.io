@@ -16,7 +16,7 @@ Event [link]()
 - VQA :point_right: 
 [Visual Quetion Answering and Dialogue Workshop (CVPR 2020)](www.visualqa.org/workshop.html)
 
-<img src = "https://raw.githubusercontent.com/yoonlee78/blog/master/_posts/vqa_challenge_progress.png"/>
+<img src = "https://raw.githubusercontent.com/yoonlee78/yoonlee78.github.io/main/_posts/vqa_challenge_progress.png"/>
 
 - RASA :point_right: [RASA MasterClass](https://info.rasa.com/masterclass-ebook)
 
